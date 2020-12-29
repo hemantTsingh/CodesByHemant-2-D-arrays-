@@ -21,7 +21,7 @@ public class pepcoding {
                 System.out.print(arr[i][j]+" ");
 
             }
-            System.out.println();
+            System.out.println("");
 
         }
 
